@@ -1,0 +1,249 @@
+Column 1,Gender,Coffee_Temp,Days_Coffee_Consumed,Coffee_Consumed
+,Female,Iced,7,7
+,Male,Hot,5,5
+,Female,Iced,7,10
+,Female,Hot,4,4
+,Female,Iced,6,6
+,Male,Hot,4,4
+,Female,Hot,1,2
+,Female,Iced,2,6
+,Female,Iced,5,5
+,Female,Iced,7,10
+,Male,Iced,6,5
+,Female,Hot,2,1
+,Female,Iced,5,7
+,Male,Hot,6,6
+,Female,Iced,5,5
+,Male,Hot,7,10
+,Female,Hot,7,10
+,Female,Hot,7,9
+,Female,Hot,1,1
+,Female,Hot,7,7
+,Female,Hot,6,6
+,Male,Iced,7,9
+,Female,Hot,7,10
+,Female,Hot,7,10
+,Female,Iced,4,4
+,Male,Hot,3,3
+,Male,Hot,7,10
+,Male,Iced,7,10
+,Female,Iced,7,10
+,Male,Iced,6,6
+,Female,Hot,3,3
+,Female,Hot,2,2
+,Male,Iced,7,10
+,Male,Hot,7,10
+,Male,Hot,2,2
+,Male,Hot,5,5
+,Male,Iced,7,9
+,Male,Hot,7,10
+,Female,Iced,5,5
+,Male,Hot,7,7
+,Male,Hot,4,4
+,Female,Iced,1,1
+,Female,Hot,1,1
+,Male,Iced,3,3
+,Male,Hot,7,7
+,Male,Iced,3,3
+,Female,Iced,5,8
+,Female,Iced,2,2
+,Male,Hot,5,5
+,Male,Hot,5,5
+,Female,Iced,5,5
+,Female,Iced,2,2
+,Female,Iced,7,7
+,Female,Iced,3,3
+,Male,Hot,4,4
+,Female,Hot,7,1
+,Female,Iced,5,12
+,,,,2
+,Male,Iced,0,0
+,Female,Hot,5,1
+,Female,Hot,7,7
+,Female,Iced,6,12
+,Female,Hot,7,9
+,Female,Hot,0,0
+,Male,Iced,6,9
+,Female,Iced,7,7
+,Female,Hot,7,1
+,Female,Hot,7,7
+,Female,Hot,6,10
+,Female,Iced,2,2
+,Female,Hot,7,7
+,Female,Hot,3,3
+,Female,Iced,0,0
+,Female,Iced,4,4
+,Male,Iced,3,3
+,Male,Hot,0,0
+,Male,Iced,6,8
+,Male,Hot,5,5
+,Female,Iced,3,3-4 
+,Female,Hot,7,14
+,Female,Iced,7,10
+,Male,Hot,7,2
+,Female,Hot,7,7
+,Female,Hot,7,17
+,Female,Iced,7,10
+,Female,Hot,7,10
+,Female,Iced,7,2
+,Male,Hot,7,28
+,Male,Hot,7,7
+,Female,Hot,2,2
+,Female,Hot,7,10
+,Female,Iced,7,14
+,Female,Hot,7,7
+,Male,Iced,3,3
+,Female,Iced,7,7
+,Female,Hot,4,4
+,Female,Hot,1,1
+,Female,Hot,5,5
+,Female,Iced,7,14
+,Female,Iced,6,12
+4/14/2025 11:52:47,Female,Iced,2,2
+4/14/2025 21:43:42,Male,Iced,4,5
+4/15/2025 9:43:25,Female,Iced,7,14
+4/15/2025 9:43:35,Male,Hot,7,7
+4/15/2025 9:43:46,Female,Hot,3,3
+4/15/2025 9:43:59,Female,Iced,6,12
+4/15/2025 9:44:10,Female,Iced,5,10
+4/15/2025 9:44:25,Female,Iced,6,13
+4/15/2025 9:44:36,Female,Iced,7,7
+4/15/2025 9:44:50,Male,Iced,7,12
+4/15/2025 9:45:01,Male,Iced,7,15
+4/15/2025 9:45:43,Female,Iced,6,12
+4/15/2025 9:45:58,Male,Iced,4,6
+4/15/2025 9:46:11,Female,Hot,5,5
+4/15/2025 9:46:32,Female,Iced,6,10
+4/15/2025 9:46:49,Female,Iced,4,4
+4/15/2025 9:47:05,Male,Hot,3,3
+4/15/2025 9:47:31,Male,Iced,7,15
+4/15/2025 9:47:42,Female,Iced,6,12
+4/15/2025 9:47:53,Female,Hot,6,6
+4/15/2025 9:48:08,Male,Hot,7,20
+4/15/2025 9:48:18,Male,Hot,7,7
+4/15/2025 9:48:35,Female,Iced,6,13
+4/15/2025 9:48:56,Female,Iced,4,8
+4/15/2025 9:49:06,Male,Iced,3,3
+4/15/2025 9:49:15,Male,Iced,4,7
+4/15/2025 9:49:26,Female,Iced,2,2
+4/15/2025 9:49:38,Female,Iced,5,8
+4/15/2025 9:49:50,Male,Iced,2,2
+4/15/2025 9:50:03,Female,Iced,3,5
+4/15/2025 9:52:40,Female,Iced,2,3
+4/15/2025 9:52:51,Female,Iced,4,6
+4/15/2025 9:53:05,Male,Hot,2,3
+4/15/2025 9:53:14,Female,Iced,3,3
+4/15/2025 9:53:26,Female,Iced,2,3
+4/15/2025 9:53:36,Male,Hot,2,3
+4/15/2025 9:59:23,Female,Hot,5,5
+4/15/2025 9:59:45,Female,Hot,3,4
+4/15/2025 10:00:12,Male,Hot,6,6
+4/15/2025 10:00:38,Female,Iced,7,7
+4/15/2025 10:00:56,Male,Hot,7,7
+4/15/2025 10:01:16,Male,Hot,7,9
+4/15/2025 10:01:43,Male,Hot,5,5
+4/15/2025 10:02:04,Male,Iced,7,10
+4/15/2025 10:02:17,Female,Hot,7,7
+4/15/2025 10:02:38,Female,Hot,4,4
+4/15/2025 10:02:54,Male,Hot,5,5
+4/15/2025 10:03:37,Female,Hot,7,7
+4/15/2025 10:03:50,Female,,2,2
+4/15/2025 10:05:34,Female,Hot,4,4
+4/15/2025 10:06:07,Female,Hot,6,9
+4/15/2025 10:06:21,Male,Hot,5,7
+4/15/2025 10:06:35,Female,Iced,3,4
+4/15/2025 10:06:44,Male,Hot,6,9
+4/15/2025 10:06:51,Male,Hot,7,20
+4/15/2025 10:07:00,Male,Hot,7,18
+4/15/2025 10:07:03,Male,Iced,4,4
+4/15/2025 10:07:16,Male,Hot,5,10
+4/15/2025 10:07:26,Female,Hot,2,2
+4/15/2025 10:07:29,Male,Hot,5,7
+4/15/2025 10:07:37,Male,Hot,7,10
+4/15/2025 10:07:52,Female,Iced,5,11
+4/15/2025 10:07:57,Male,Hot,7,10
+4/15/2025 10:08:21,Male,Hot,7,7
+4/15/2025 10:08:38,Female,Hot,5,5
+4/15/2025 10:11:04,Female,Hot,4,5
+4/15/2025 10:11:23,Female,Hot,5,5
+4/15/2025 10:11:40,Male,Hot,7,9
+4/15/2025 10:12:01,Female,Hot,2,3
+4/15/2025 10:12:02,Male,Hot,5,5
+4/15/2025 10:12:12,Female,Hot,3,3
+4/15/2025 10:12:26,Female,Hot,5,6
+4/15/2025 10:12:32,Female,Hot,5,5
+4/15/2025 10:12:35,Female,Iced,6,7
+4/15/2025 10:12:49,Male,Hot,7,7
+4/15/2025 10:13:07,Male,Iced,7,9
+4/15/2025 10:13:37,Female,Iced,7,7
+4/15/2025 10:13:53,Female,Hot,3,3
+4/15/2025 10:14:09,Female,Hot,7,7
+4/15/2025 10:14:50,Male,Hot,7,10
+4/15/2025 10:15:04,Male,Iced,5,5
+4/15/2025 10:15:23,Female,Iced,5,7
+4/15/2025 10:16:39,Female,Hot,3,3
+4/15/2025 10:17:02,Female,Iced,6,8
+4/15/2025 10:17:40,Male,Iced,6,6
+4/15/2025 10:18:19,Female,Hot,4,6
+4/15/2025 10:18:33,Female,Hot,5,7
+4/15/2025 10:18:51,Male,Hot,5,8
+4/15/2025 10:19:16,Female,Iced,5,5
+4/15/2025 10:19:30,Female,Iced,3,3
+4/15/2025 10:19:43,Female,Hot,5,6
+4/15/2025 10:20:06,Male,Iced,4,4
+4/15/2025 10:20:25,Female,Iced,6,6
+4/15/2025 10:20:40,Female,Hot,4,4
+4/15/2025 10:20:57,Male,Hot,5,5
+4/15/2025 10:21:10,Female,Hot,7,7
+4/15/2025 10:21:23,Female,Iced,5,10
+4/15/2025 10:21:26,Female,Hot,5,5
+4/15/2025 10:21:34,Female,Iced,2,3
+4/15/2025 10:21:37,Female,Hot,7,7
+4/15/2025 10:21:51,Female,Iced,4,7
+4/15/2025 10:21:57,Male,Hot,7,7
+4/15/2025 10:22:01,Female,Iced,6,13
+4/15/2025 10:22:11,Female,Iced,6,12
+4/15/2025 10:22:14,Female,Hot,7,7
+4/15/2025 10:22:21,Female,Iced,5,7
+4/15/2025 10:22:30,Female,Iced,6,15
+4/15/2025 10:22:33,Male,Hot,7,9
+4/15/2025 10:22:42,Female,Iced,5,6
+4/15/2025 10:22:48,Female,Hot,5,7
+4/15/2025 10:22:52,Female,Iced,6,12
+4/15/2025 10:22:59,Female,Hot,7,7
+4/15/2025 10:23:02,Female,Iced,5,5
+4/15/2025 10:23:13,Male,Hot,7,7
+4/15/2025 10:23:29,Female,Iced,5,7
+4/15/2025 10:23:40,Female,Hot,4,4
+4/15/2025 10:24:01,Female,Hot,7,8
+4/15/2025 10:24:16,Male,Hot,7,10
+4/15/2025 10:24:33,Female,Hot,4,4
+4/15/2025 10:24:48,Female,Iced,7,7
+4/15/2025 10:26:25,Female,Iced,7,12
+4/15/2025 10:26:36,Female,Iced,7,16
+4/15/2025 10:41:37,Male,Hot,7,9
+4/15/2025 10:42:07,Female,Hot,7,7
+4/15/2025 10:42:19,Male,Hot,7,7
+4/15/2025 10:42:35,Female,Hot,5,5
+4/15/2025 10:42:46,Female,Iced,4,4
+4/15/2025 10:59:17,Male,,5,8
+4/15/2025 10:59:34,Female,Hot,5,5
+4/15/2025 11:37:59,Female,Hot,3,3
+4/15/2025 11:38:11,Male,Hot,5,5
+4/15/2025 11:38:23,Male,Hot,7,7
+4/15/2025 11:38:35,Female,Hot,5,5
+4/15/2025 13:39:01,Female,Iced,7,7
+4/15/2025 14:57:35,Male,Hot,7,7
+4/15/2025 14:57:57,Male,Hot,6,9
+4/15/2025 14:58:18,Female,Iced,4,6
+4/15/2025 14:58:34,Female,Iced,7,7
+4/15/2025 14:58:52,Female,Hot,7,7
+4/15/2025 15:41:09,Male,Hot,7,9
+4/15/2025 15:41:30,Male,Iced,7,7
+4/15/2025 15:41:47,Female,Iced,7,7
+4/15/2025 15:42:09,Male,Hot,3,3
+4/15/2025 15:42:24,Male,Hot,7,10
+4/15/2025 15:42:45,Female,Hot,6,8
+4/15/2025 15:43:04,Female,Iced,5,8
+4/15/2025 15:43:22,Female,Hot,7,7
+4/15/2025 15:43:44,Male,Hot,7,14
